@@ -1,0 +1,22 @@
+Escape sequences
+\n - Newline
+\a - Beep
+\b - Backspace
+\t - Tab
+\\ - Backslash
+\' - Single quote
+\" - Double quote
+\f - Formfeed
+\r - Carriage return
+\v - Vertical tab
+\? - Literal question mark (trigraph related)
+\xHH - Hexadecimal numbers
+\UHH - Unicode hexadecimal values
+\uHH - Unicode hexadecimal values < 10000
+
+Conversion specification character %
+char     - %c
+int      - %d
+float    - %f
+double   - %f
+unsigned - %u

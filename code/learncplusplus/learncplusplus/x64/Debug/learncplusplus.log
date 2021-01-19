@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(43,2): warning C4091: 'typedef ': ignored on left of 'apa1' when no variable is declared
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(58,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(85,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(85,9): message : consider using '%zu' in the format string
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(86,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(86,9): message : consider using '%zu' in the format string
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(96,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(96,9): message : consider using '%zu' in the format string
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(97,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(97,9): message : consider using '%zu' in the format string
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(98,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(98,9): message : consider using '%zu' in the format string
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(99,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(99,9): message : consider using '%zu' in the format string
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(100,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+D:\learncplusplus\code\learncplusplus\learncplusplus\main.cpp(100,9): message : consider using '%zu' in the format string
+  learncplusplus.vcxproj -> D:\learncplusplus\code\learncplusplus\x64\Debug\learncplusplus.exe
